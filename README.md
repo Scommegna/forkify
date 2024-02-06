@@ -12,7 +12,7 @@
 </p>
 
 <h4 align="center">
-  Low code Recipe application with custom recipe uploads using mvc architecture.
+  Recipe application with custom recipe uploads using mvc architecture and vanilla Javascript.
 </h4>
 
 <p align="center">
